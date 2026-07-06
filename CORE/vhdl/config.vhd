@@ -77,7 +77,7 @@ type WHS_RECORD_ARRAY_TYPE is array (0 to WHS_RECORDS - 1) of WHS_RECORD_TYPE;
 constant SCR_WELCOME : string :=
 
    "Gaplus V0.5.1\n" &
-   "-------------\n" &
+   "-------------\n" &   
    "\n" &
    "MiSTer port by Muse in 2024-26\n\n" &
 
